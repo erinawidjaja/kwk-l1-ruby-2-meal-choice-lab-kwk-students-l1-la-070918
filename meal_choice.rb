@@ -9,8 +9,10 @@ def breakfast(food="frosted flakes")
 end 
 breakfast
 
-def lunch(food="mac)
-  puts 
+def lunch(food="macaroni")
+  puts "Lunch is the best time for #{food}!"
+end
+lunch
 
 
 
