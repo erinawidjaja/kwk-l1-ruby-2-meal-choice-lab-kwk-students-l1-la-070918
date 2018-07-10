@@ -14,6 +14,10 @@ def lunch(food="macaroni")
 end
 lunch
 
+def dinner(food="pasta")
+  puts "Dinner is the best time for #{food}!"
+end
+dinner
 
 
 
