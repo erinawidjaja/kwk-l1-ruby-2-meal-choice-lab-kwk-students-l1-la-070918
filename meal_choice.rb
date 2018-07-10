@@ -9,6 +9,8 @@ def breakfast(food="frosted flakes")
 end 
 breakfast
 
+def lunch(food="mac)
+  puts 
 
 
 
